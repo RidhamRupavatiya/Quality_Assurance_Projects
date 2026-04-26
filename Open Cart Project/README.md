@@ -36,7 +36,7 @@ This is a manual QA practice project performed on the **OpenCart demo e-commerce
 
 ## 📋 What's Included
 
-### 1. `OpenCart_Test_Plan.docx`
+### 1. `OpenCart_Test_Plan.docx` 
 A professional test plan document covering:
 - Project scope (in-scope and out-of-scope)
 - Test strategy and techniques used
