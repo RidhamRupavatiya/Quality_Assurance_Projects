@@ -47,7 +47,7 @@ A professional test plan document covering:
 - Roles, schedule, and risks
 
 ### 2. `OpenCart_Test_Cases.xlsx`
-Excel sheet with **30 manually written test cases** across 6 modules:
+Excel sheet with **31 manually written test cases** across 6 modules:
 
 | Module | Test Cases |
 |---|---|
@@ -57,7 +57,7 @@ Excel sheet with **30 manually written test cases** across 6 modules:
 | Shopping Cart | 5 |
 | Checkout | 5 |
 | Order Confirmation | 4 |
-| **Total** | **30** |
+| **Total** | **31** |
 
 Each test case includes: TC ID, Module, Title, Pre-Conditions, Test Steps, Test Data, Expected Result, Actual Result, Status, Severity, and Priority.
 
