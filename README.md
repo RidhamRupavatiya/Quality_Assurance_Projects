@@ -1,1 +1,1 @@
-# QA Manual Testing and QA Automation projects Repo.
+## QA Manual Testing and Automation Testing projects Repo.
